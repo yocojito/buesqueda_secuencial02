@@ -1,4 +1,4 @@
-# buesqueda_secuencial02
+# buesqueda_secuencial_consecutiva
 tarea
 
 #include <iostream>
